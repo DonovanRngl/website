@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: white;
+    width: 70%;
+    margin: auto;  
+}
+
+div{
+    border-style: double; 
+    border-color: blue; 
+    margin: auto; 
+    text-align: center; 
+    width: 40%;
+}
+hr { 
+   display: block; 
+   height: 3px; 
+   border: 0; 
+   border-top: 3px solid #ff0000; 
+   margin: 1em 0; 
+   padding: 0; }
+
+#imagenPequena{
+    width: 08%;
+}
+
+#imagenMediana{
+    width: 20%;
+}
+
+#imagenGrande{
+    width: 50%;
+}
+
+a{
+    font-size: 100%;
+}
+
+h1{
+    background-color: #2525ff;
+    text-align: center;
+    color: #23c90d;
+}
